@@ -32,3 +32,16 @@ MRI 영상을 사람이 일일이 검토하는 것은 시간이 오래 걸리며
 <b>딥러닝을 활용한 뇌종양 데이터 분류 학습기의 정확도는 점점 발달하는 중이고,<br>
 본 수업 내용과 상응하는 수준으로 데이터를 학습시켜 분류 알고리즘을 구현해보고자 한다.</b><br>
 
+![image](https://user-images.githubusercontent.com/83086978/166413909-e2ee63de-8d9b-4dcb-b551-eabac3af58c7.png)
+![image](https://user-images.githubusercontent.com/83086978/166413927-db649dee-ea73-44d3-b69d-3b1a514ae3b0.png)
+![image](https://user-images.githubusercontent.com/83086978/166413936-2303b524-1fa3-4754-8084-aa84cd65fc94.png)
+![image](https://user-images.githubusercontent.com/83086978/166413945-971b8b87-e841-42cc-bb4e-cd1fcd4d9fb7.png)
+![image](https://user-images.githubusercontent.com/83086978/166413952-f8c59685-ef16-4522-8a4c-b6d890703b04.png)
+![image](https://user-images.githubusercontent.com/83086978/166413959-3efc620a-e059-4fb4-a461-4a1b7f1724b3.png)
+![image](https://user-images.githubusercontent.com/83086978/166413971-6195aa59-7cab-4849-8ef6-8b92a7bf9508.png)
+![image](https://user-images.githubusercontent.com/83086978/166413980-cdb47a74-6f45-4920-988c-9e1b4839ec5c.png)
+![image](https://user-images.githubusercontent.com/83086978/166413994-1c00db7d-c83f-49cc-a64c-7851d0d78678.png)
+![image](https://user-images.githubusercontent.com/83086978/166414007-9377cd7d-db39-4a9c-a67c-b14381867431.png)
+![image](https://user-images.githubusercontent.com/83086978/166414018-35cbcca8-213c-411e-ac76-e49e876168bc.png)
+
+
