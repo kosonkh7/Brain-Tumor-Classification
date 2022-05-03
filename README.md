@@ -2,6 +2,7 @@
 2021년도 2학기 인공지능론 프로젝트<br>
 
 캐글의 뇌종양 MRI 이미지 데이터를 활용하였다.<br>
+데이터 파일의 압축을 해제한 채로 구글 드라이브에 올려 활용하였다.<br>
 https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri<br>
 ![image](https://user-images.githubusercontent.com/83086978/166413501-90e5ce27-0c12-4658-a1a8-2d5f837cf6a1.png)
 
